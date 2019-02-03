@@ -10,7 +10,7 @@ setuptools.setup(
     description="To find pitch of a audio file",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="",
+    url="https://github.com/ParthMehta15/Pitch",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
