@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="pitch",
-    version="0.0.2",
+    version="0.0.4",
     author="Parth Mehta",
     description="To find pitch of a audio file",
     long_description=long_description,
