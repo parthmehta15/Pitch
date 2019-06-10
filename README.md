@@ -20,4 +20,4 @@ Function returns the value of the pitch of the audio.
 3.numpy
 
 
-THE VALUE OF PITCH MAY BE IN THE RANGE OF AROUND(+7Hz to -7Hz) OF THE ACTUAL PITCH.
+
